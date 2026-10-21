@@ -1,2 +1,1 @@
-# SmartCampus - Projet ENSA Khouribga
-
+# SmartCampus - Projet ENSA Khouribga X
