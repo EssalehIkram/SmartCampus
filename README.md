@@ -1,2 +1,2 @@
 # SmartCampus - Projet ENSA Khouribga
-# Conflit - X
+ Application gérée par la branche main
