@@ -2,10 +2,14 @@
 pipeline {
     agent any
 
+    tools {
+        maven 'Maven'
+    }
+
     stages {
         stage('Checkout') {
             steps {
-                checkout scm
+                echo 'Code recupere depuis GitHub'
             }
         }
 
