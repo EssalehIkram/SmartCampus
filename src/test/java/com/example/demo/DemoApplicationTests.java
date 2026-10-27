@@ -11,9 +11,5 @@ class DemoApplicationTests {
     void contextLoads() {
     }
 
-    @Test
-    void testForceEchec() {
-        // On force une assertion fausse pour que Jenkins détecte une erreur
-        assertEquals(true, false, "Erreur volontaire pour le TP Jenkins");
-    }
+
 }
